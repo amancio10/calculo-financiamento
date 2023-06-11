@@ -3,7 +3,7 @@
 
 ##
 
-Desenvolvi essa calculadora em Lazarus (Objeto Pascal) para resolver um problema de conflito de informações da organização onde trabalho (em 2023); o conflito era entre o cálculo do sistema que estava sendo usado e o cálculo feito pelos usuários para conciliação das informações; o cálculo usado pelos usuários era cálculo de juros composto; após análise identificamos que o correto seria usar cálculo de financiamento para esta conciliação.
+Desenvolvi essa calculadora em Lazarus (Objeto Pascal) para resolver um problema de conflito de informações da organização onde trabalho (em 2023); o conflito era entre o cálculo do sistema que estava sendo usado e o cálculo feito pelos usuários para conciliação das informações; o cálculo usado pelos usuários era de juros composto; após análise identificamos que o correto seria usar cálculo de financiamento para esta conciliação.
 
 Por ser um cálculo mais complexo, desenvolvi esta calculadora para uso dos usuários internamente.
 
