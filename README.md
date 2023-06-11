@@ -1,9 +1,9 @@
 # Cálculo de financiamento 🖩
-### Calculadora para Cálculo de financiamento
+### Calculadora para Cálculo de financiamento | Em Lazarus / Delphi (Objeto Pascal)
 
 ##
 
-Desenvolvi essa calculadora em Lazarus (Objeto pascal) para resolver um problema de conflito de informações da organização onde trabalho (em 2023); o conflito era entre o cálculo do sistema que estava sendo usado e o cálculo feito pelos usuários para conciliação das informações; o cálculo usado pelos usuários era cálculo de juros composto; após análise identificamos que o correto seria usar cálculo de financiamento para esta conciliação.
+Desenvolvi essa calculadora em Lazarus (Objeto Pascal) para resolver um problema de conflito de informações da organização onde trabalho (em 2023); o conflito era entre o cálculo do sistema que estava sendo usado e o cálculo feito pelos usuários para conciliação das informações; o cálculo usado pelos usuários era cálculo de juros composto; após análise identificamos que o correto seria usar cálculo de financiamento para esta conciliação.
 
 Por ser um cálculo mais complexo, desenvolvi esta calculadora para uso dos usuários internamente.
 
@@ -28,6 +28,6 @@ Abaixo está a lógica dos cálculos:
 
 ##
 
-![Valor da Parcela](https://github.com/amancio10/calculo-financiamento/assets/48102777/62865504-3aa7-4a9b-8de3-61e71ed7fc88)
+![Montante](https://github.com/amancio10/calculo-financiamento/assets/48102777/ffb12e12-93ea-42da-8073-8a71061bf689)
 
 - E para calcular o montante (M), soma-se o valor do bem ao total de juros.
