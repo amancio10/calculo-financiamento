@@ -31,3 +31,8 @@ Abaixo está a lógica dos cálculos:
 ![Montante](https://github.com/amancio10/calculo-financiamento/assets/48102777/ffb12e12-93ea-42da-8073-8a71061bf689)
 
 - E para calcular o montante (M), soma-se o valor do bem ao total de juros.
+
+##
+
+![Financiamento](https://github.com/amancio10/calculo-financiamento/assets/48102777/e1bbd358-8a72-40ed-9455-2c76e85b1e85)
+
